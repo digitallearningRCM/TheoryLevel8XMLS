@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<activities>
+  <activity icon="planet-melody" title="COMPOSE A CONTRASTING PERIOD" description="Given the first two measures of an antecedent phrase, complete the contrasting consequent phrase by dragging the correct measures to the staff." xmlFile="L6_U6_A0"></activity>
+  <activity icon="planet-melody" title="NON-CHORD TONES" description="Identify the circled note as a chord tone, passing tone, or neighbor tone using the picker." xmlFile="L6_U6_A1" />
+  <activity icon="planet-melody" title="HARMONIC PROGRESSIONS" description="Analyze the following short melody and identify the implied harmony from the options below." xmlFile="L6_U6_A2"></activity>
+  <activity icon="planet-melody" title="TYPES OF MOTION" description="Identify the type of motion between these two lines using the picker below." xmlFile="L6_U6_A3"></activity>
+  <activity icon="planet-melody" title="CLUSTER, QUARTAL, AND POLYCHORDS" description="Identify the type of chord from the picker below." xmlFile="L6_U6_A4" />
+</activities>
