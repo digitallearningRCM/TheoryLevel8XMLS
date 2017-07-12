@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<questions>
+<category type="text" question="Select the description of the term.">
+    <question title="tutti" answer="A passage for the ensemble" />
+    <question title="vivo" answer="Lively" />
+    <question title="volta" answer="Time (for example, prima volta: first time)" />
+    <question title="solti subito, v.s." answer="Turn the page quickly" />
+  </category>
+  <questions>
+  <category type="text" question="Select the description of the term.">
+    <question title="Accelerando (accel.)" answer="Becoming quicker" />
+    <question title="Adagio" answer="Slow" />
+    <question title="Vivace" answer="Lively brisk" />
+    <question title="Prestissimo" answer="As fast as possible" />
+  </category>
+  <category type="text" question="Select the description of the term.">
+    <question title="Mano destra, m.d." answer="right hand" />
+    <question title="Mano sinistra, m.s." answer="left hand" />
+    <question title="Tempo primo (Tempo I)" answer="Return to the original tempo" />
+  </category>
+  <category type="text" question="Select the description of the term.">
+    <question title="Cantabile" answer="In a singing style" />
+    <question title="Dolce" answer="Sweet, gentle" />
+    <question title="Grazioso" answer="Graceful" />
+    <question title="Maestoso" answer="Majestic" />
+    <question title="Marcato" answer="Marked or stressed" />
+  </category>
+  <category type="graphic" question="Select the name of the sign.">
+    <question image="sign_breathmark" answer="Breath mark" />
+    <question image="sign_downbow" answer="Down bow" />
+    <question image="up_downbow" answer="Up bow" />
+  </category>
+  <category type="graphic" question="Select the description of the sign.">
+    <question image="sign_breathmark" answer="Take a breath, and/or a slight pause or lift" />
+    <question image="sign_downbow" answer="On a bowed string instrument, play the note while drawing the bow down ward" />
+    <question image="up_downbow" answer="On a bowed string instrument, play the note while drawing the bow upward" />
+  </category>
+  <category type="graphic" question="Select the name of the sign.">
+    <question image="sign_dalsegno" answer="Dal segno (D.S.)" />
+    <question image="sign_ottava_down" answer="Ottava  (below)" />
+    <question image="sign_ottava_up" answer="Ottava (above)" />
+  </category>
+  <category type="graphic" question="CSelect the description of the sign.">
+    <question image="sign_dalsegno" answer="From the sign" />
+    <question image="sign_ottava_down" answer="Play one octave below written pitch" />
+    <question image="sign_ottava_up" answer="Play one octave above written pitch"></question>
+  </category>
+  <category type="text" question="Select the description of the term.">
+    <question title="Larghetto" answer="Fairly slow but not as slow as largo" />
+    <question title="Largo" answer="Very slow" />
+    <question title="Leggiero" answer="Light, nimble, quick" />
+    <question title="Andantino" answer="A little faster than andante" />
+  </category>
+  <category type="text" question="Select the description of the term.">
+    <question title="Spiritoso" answer="Spirited" />
+    <question title="Tranquillo" answer="Quiet, tranquil" />
+    <question title="Espressivo" answer="Expressive, with expression" />
+    <question title="Rubato" answer="With some freedom of tempo to enhance musical expression" />
+  </category>
+  <category type="graphic" question="Select the name of the sign.">
+    <question image="sign_commontime" answer="common time" />
+    <question image="sign_cuttime" answer="cut time" />
+  </category>
+  <category type="graphic" question="Select the description of the sign.">
+    <question image="sign_commontime" answer="a symbol for $E$ " />
+    <question image="sign_cuttime" answer="a symbol for $A$ " />
+  </category>
+  <category type="text" question="Select the description of the term.">
+    <question title="Larghetto" answer="Fairly slow but not as slow as largo" />
+    <question title="Largo" answer="Very slow" />
+    <question title="Leggiero" answer="Light, nimble, quick" />
+    <question title="Andantino" answer="A little faster than andante"></question>
+  </category>
+  <category type="text" question="Select the description of the term.">
+    <question title="Spiritoso" answer="Spirited" />
+    <question title="Tranquillo" answer="Quiet, tranquil" />
+    <question title="Espressivo" answer="Expressive, with expression" />
+    <question title="Rubato" answer="With some freedom of tempo to enhance musical expression" />
+  </category>
+  <category type="text" question="Select the description of the term.">
+    <question title="Larghetto" answer="Fairly slow but not as slow as largo" />
+    <question title="Largo" answer="Very slow" />
+    <question title="Leggiero" answer="Light, nimble, quick" />
+    <question title="Andantino" answer="A little faster than andante" />
+  </category>
+  <category type="text" question="Select the description of the term.">
+    <question title="Spiritoso" answer="Spirited" />
+    <question title="Tranquillo" answer="Quiet, tranquil" />
+    <question title="Espressivo" answer="Expressive, with expression" />
+    <question title="Rubato" answer="With some freedom of tempo to enhance musical expression" />
+  </category>
+  <category type="text" question="Select the description of the term.">
+    <question title="più mosso" answer="More movement (quicker)"></question>
+    <question title="poco a poco" answer="Little by little" />
+    <question title="primo, prima" answer="First; the upper part of a duet" />
+    <question title="quasi" answer="almost, as if"></question>
+  </category>
+  <category type="text" question="Select the description of the term.">
+    <question title="secondo, seconda" answer="Second; second or lower part of a duet"></question>
+    <question title="sempre" answer="Always, continuously" />
+    <question title="senza" answer="Without" />
+    <question title="sforzando" answer="Sudden strong accent of a single note or chord" />
+  </category>
+  <category type="text" question="Select the description of the term.">
+    <question title="simile" answer="Continue in the same manner as has just been indicated"></question>
+    <question title="subito" answer="Suddently" />
+    <question title="tre corde" answer="Three strings; release the left pedal (on the piano)" />
+    <question title="troppo" answer="Too much"></question>
+    <question title="una corda" answer="One string; depress the left pedal (on the piano)" />
+  </category>
+</questions>
