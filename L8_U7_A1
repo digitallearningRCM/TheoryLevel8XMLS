@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<questions>
+  <category type="paragraph" question="" text="What are the performing forces in 'Ordo Virtutum'?">
+    <question text="17 female voices and 1 male voice" answer="true" />
+    <question text="Six voices" answer="false" />
+    <question text="Four voices" answer="false" />
+  </category>
+    <category type="paragraph" question="" text="What are the performing forces in 'Sumer Is Icumen In'?">
+    <question text="17 female voices and 1 male voice" answer="false" />
+    <question text="Six voices" answer="true" />
+    <question text="Four voices" answer="false" />
+  </category>
+    <category type="paragraph" question="" text="What are the performing forces in 'El grillo'?">
+    <question text="17 female voices and 1 male voice" answer="false" />
+    <question text="Six voices" answer="false" />
+    <question text="Four voices" answer="true" />
+  </category>
+      <category type="paragraph" question="" text="Which composition exhibits a monophonic texture?">
+    <question text="Ordi Virtutum" answer="true" />
+    <question text="Sumer Is Icumen In" answer="false" />
+    <question text="El grillo" answer="false" />
+  </category>
+      <category type="paragraph" question="" text="Which composition exhibits a polyphonic texture?">
+     <question text="Ordi Virtutum" answer="false" />
+    <question text="Sumer Is Icumen In" answer="true" />
+    <question text="El grillo" answer="false" />
+  </category>
+      <category type="paragraph" question="" text="Which composition exhibits ostinato?">
+    <question text="Ordi Virtutum" answer="false" />
+    <question text="Sumer Is Icumen In" answer="false" />
+    <question text="El grillo" answer="true" />
+  </category>
+  <category type="paragraph" question="" text="In 'El grillo', long notes are used to suggest the cricket’s ability to sing for a long time. What is this effect called?">
+    <question text="Monophonic texture" answer="false" />
+    <question text="Polyphonic texture" answer="false" />
+    <question text="Ostinatoe" answer="false" />
+    <question text="Word painting" answer="true" />
+  </category>
+    <category type="paragraph" question="" text="Which term refers to a single line of unaccompanied melody?">
+    <question text="Monophonic texture" answer="true" />
+    <question text="Polyphonic texture" answer="false" />
+    <question text="Ostinatoe" answer="false" />
+    <question text="Word painting" answer="false" />
+  </category>
+       <category type="paragraph" question="" text="Which term refers to the combination of two or more independent melodic lines?">
+    <question text="Monophonic texture" answer="false" />
+    <question text="Polyphonic texture" answer="true" />
+    <question text="Ostinatoe" answer="false" />
+    <question text="Word painting" answer="false" />
+  </category>
+      <category type="paragraph" question="" text="Which term refers to a recurring rhythmic pattern?">
+    <question text="Monophonic texture" answer="false" />
+    <question text="Polyphonic texture" answer="false" />
+    <question text="Ostinatoe" answer="true" />
+    <question text="Word painting" answer="false" />
+  </category>
+      <category type="paragraph" question="" text="What is it called when the music mirrors the meaning of the words through the melody, harmony and rhythm?">
+    <question text="Monophonic texture" answer="false" />
+    <question text="Polyphonic texture" answer="false" />
+    <question text="Ostinatoe" answer="false" />
+    <question text="Word painting" answer="true" />
+  </category>
