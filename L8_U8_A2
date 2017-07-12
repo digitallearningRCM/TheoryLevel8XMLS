@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<questions>
+<category type="text" question="Select the description of the term.">
+    <question title="risoluto" answer="Resolute" />
+    <question title="scherzando" answer="Playful" />
+    <question title="semplice" answer="Simple" />
+    <question title="sonore" answer="Sonorous" />
+  </category>
+  <category type="text" question="Select the description of the term.">
+    <question title="sopra" answer="Above" />
+    <question title="sostenuto" answer="Sutained" />
+    <question title="sotto voce" answer="Soft, subdued, under the breath" />
+    <question title="tacet" answer="Be silent" />
+  </category>
+   <category type="text" question="Select the description of the term.">
+    <question title="Allegretto" answer="Failry fast ( a little slower than allegro)" />
+    <question title="Molto" answer="Much, very" />
+    <question title="Poco" answer="Little" />
+    <question title="Presto" answer="Very fast" />
+    <question title="Rallentando (rall.)" answer="Slowing down" />
+  </category>
+  <category type="text" question="Select the description of the term.">
+    <question title="D.C. al Fine" answer="Failry fast ( a little slower than allegro)" />
+    <question title="Da capo (D.C.)" answer="From the beginning" />
+    <question title="Fine" answer="The end" />
+  </category>
+  <category type="text" question="Select the description of the term.">
+    <question title="Allegro" answer="Fast" />
+    <question title="Andante" answer="Moderately slow" />
+    <question title="Lento" answer="Slow" />
+    <question title="Moderato" answer="Moderate tempo" />
+    <question title="Legato" answer="Smooth" />
+  </category>
+  <category type="text" question="Select the description of the term.">
+    <question title="Ritardando (rit.)" answer="Gradually slow down" />
+    <question title="Tempo" answer="Speed of playing" />
+    <question title="A tempo" answer="Return to original tempo" />
+  </category>
+  <category type="graphic" question="Select the name of the sign.">
+    <question image="sign_repeat" answer="Repeat sign" />
+    <question image="sign_tenutoNOTE" answer="Tenuto" />
+    <question image="sign_fortissimo" answer="Fortisimmo" />
+    <question image="sign_pianissimo" answer="Pianissimo" />
+    <question image="sign_pedal_bracket" answer="Damper pedal" />
+  </category>
+  <category type="graphic" question="Select the description of the sign.">
+    <question image="sign_repeat" answer="Repeat the music within the double bar lines" />
+    <question image="sign_tenutoNOTE" answer="Held, sustained" />
+    <question image="sign_fortissimo" answer="Very loud" />
+    <question image="sign_pianissimo" answer="Very softly" />
+    <question image="sign_pedal_bracket" answer="Use the damper pedal (on the piano)" />
+  </category>
+  <category type="text" question="Select the description of the term.">
+    <question title="con fuoco" answer="With fire" />
+    <question title="con grazia" answer="With grace" />
+    <question title="con moto" answer="With motion" />
+    <question title="e, ed" answer="And" />
+  </category>
+  <category type="text" question="Select the description of the term.">
+    <question title="fortepiano" answer="Loud, then suddenly soft" />
+    <question title="grave" answer="Slow and solemn" />
+    <question title="loco" answer="Return to the normal register" />
+    <question title="ma" answer="but (for example, ma non troppo: but not too much)" />
+  </category>
+  <category type="text" question="Select the description of the term.">
+    <question title="meno" answer="Less" />
+    <question title="meno mosso" answer="Less movement, slower" />
+    <question title="non" answer="Not" />
+    <question title="più" answer="More" />
+  </category>
+</questions>
