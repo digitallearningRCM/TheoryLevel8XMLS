@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<questions>
+  <category type="text" question="Select the description of the term.">
+    <question title="agitato" answer="Agitated" />
+    <question title="dolente" answer="Sad" />
+    <question title="giocoso" answer="Humorous, jocose" />
+    <question title="martellato" answer="Strongly accented, hammered" />
+  </category>
+  <category type="text" question="Select the description of the term.">
+    <question title="mesto" answer="Sad, mournful" />
+    <question title="morendo" answer="Dying, fading away" />
+    <question title="pesante" answer="Weighty, with emphasis" />
+    <question title="quindicesima alta, 15ma" answer="Two octaves higher" />
+  </category>
+    <category type="graphic" question="Select the name of the sign.">
+    <question image="sign_accentNOTE" answer="Accent" />
+    <question image="sign_staccatoNOTE" answer="Staccato" />
+    <question image="sign_tieNOTE" answer="Tie" />
+    <question image="sign_slurNOTE" answer="Slur" />
+  </category>
+  <category type="graphic" question="Select the description of the sign.">
+    <question image="sign_accentNOTE" answer="A stressed note" />
+    <question image="sign_staccatoNOTE" answer="Detached" />
+    <question image="sign_tieNOTE" answer="Hold for combined value" />
+    <question image="sign_slurNOTE" answer="Play the notes smoothly" />
+  </category>
+  <category type="graphic" question="Select the description of the sign.">
+    <question image="sign_ENDOFPIECE" answer="End of piece" />
+    <question image="sign_commontime" answer="A symbol for $E$ " />
+    <question image="sign_fermata" answer="Hold the note or rest longer" />
+  </category>
+  <category type="graphic" question="Select the name of the sign.">
+    <question image="sign_ENDOFPIECE" answer="Double bar line" />
+    <question image="sign_commontime" answer="Common time" />
+    <question image="sign_fermata" answer="Fermata (pause)" />
+  </category>
+  <category type="graphic" question="Select the name of the sign.">
+    <question image="sign_crescendo" answer="Crescendo (cresc.)" />
+    <question image="sign_decrescendo" answer="Decrescendo (decresc.) or diminuendo (dim.)" />
+  </category>
+  <category type="graphic" question="Select the description of the sign.">
+    <question image="sign_crescendo" answer="Becoming louder" />
+    <question image="sign_decrescendo" answer="Becoming softer" />
+  </category>
+  <category type="graphic" question="Select the name of the sign.">
+    <question image="sign_forte" answer="Forte" />
+    <question image="sign_mezzo_forte" answer="Mezzo forte" />
+    <question image="sign_piano" answer="Piano" />
+    <question image="sign_mezzo_piano" answer="Mezzo piano" />
+  </category>
+  <category type="graphic" question="Select the description of the sign.">
+    <question image="sign_forte" answer="Loud" />
+    <question image="sign_mezzo_forte" answer="Moderately loud" />
+    <question image="sign_piano" answer="Soft" />
+    <question image="sign_mezzo_piano" answer="Moderately soft" />
+  </category>
+  <category type="text" question="Select the description of the term.">
+    <question title="ad libitum, ad li." answer="At the liberty of the performer" />
+    <question title="alla, all'" answer="in the manner of" />
+    <question title="animato" answer="Lively, animated" />
+    <question title="ben, bene" answer="Well (for example, ben marcato: well marked)" />
+  </category>
+  <category type="graphic" question="Select the description of the sign.">
+    <question image="sign_accentNOTE" answer="A stressed note" />
+    <question image="sign_staccatoNOTE" answer="Detached" />
+    <question image="sign_tieNOTE" answer="Hold for combined value" />
+    <question image="sign_slurNOTE" answer="Play the notes smoothly" />
+  </category>
+</questions>
