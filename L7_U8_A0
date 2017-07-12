@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<questions>
+  <category type="text" question="Select the description of the term.">
+    <question title="cédez" answer="Yield;hold the tempo back" />
+    <question title="léger" answer="Light, lightly" />
+    <question title="lentement" answer="Fast" />
+  </category>
+  <category type="text" question="Select the description of the term.">
+    <question title="modéré" answer="At a moderate tempo" />
+    <question title="mouvement" answer="Tempo, motion" />
+    <question title="vite" answer="Fast" />
+  </category>
+  <category type="text" question="Select the description of the term.">
+    <question title="bewegt" answer="Moving" />
+    <question title="langsam" answer="Slow, slowly" />
+    <question title="mässig" answer="Moderate, moderately" />
+  </category>
+  <category type="text" question="Select the description of the term.">
+    <question title="mit Ausdruck" answer="With expression" />
+    <question title="schnell" answer="Fast" />
+    <question title="sehr" answer="Very" />
+  </category>
+  <category type="text" question="Select the description of the term.">
+    <question title="allargando, allarg." answer="Broadening, becoming slower" />
+    <question title="arco" answer="On a bowed string instrument, resume bowing after a pizzicato passage" />
+    <question title="attacca" answer="Proceed without a break" />
+  </category>
+  <category type="text" question="Select the description of the term.">
+    <question title="calando" answer="Becoming slower and softer" />
+    <question title="comodo" answer="At a comfortable, easy tempo" />
+    <question title="con sordino" answer="With mute" />
+    <question title="largamente" answer="Broadly" />
+  </category>
+  <category type="text" question="Select the description of the term.">
+    <question title="l'istesso tempo" answer="A passage for the ensemble" />
+    <question title="pizzicato" answer="On a bowed string instrument, pluck the string instead of bowing" />
+    <question title="ritenuto, riten." answer="Suddenly slower, held back" />
+    <question title="stringendo" answer="Pressing, becoming faster" />
+  </category>
+</questions>
