@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<questions>
+  <category type="graphic" question="Name the voices or instruments that would perform the indicated part.">
+    <question image="L8_U1_A3_1a" answer="Violin I" />
+    <question image="L8_U1_A3_1b" answer="Violin II"></question>
+    <question image="L8_U1_A3_1c" answer="Viola" />
+    <question image="L8_U1_A3_1d" answer="Cello"></question>
+  </category>
+  <category type="graphic" question="Name the voices or instruments that would perform the indicated part.">
+    <question image="L8_U1_A3_2a" answer="Soprano" />
+    <question image="L8_U1_A3_2b" answer="Alto"></question>
+    <question image="L8_U1_A3_2c" answer="Tenor" />
+    <question image="L8_U1_A3_2d" answer="Bass" />
+  </category>
+  <category type="graphic" question="Name the voices or instruments that would perform the indicated part.">
+    <question image="L8_U1_A3_3a" answer="Violin I" />
+    <question image="L8_U1_A3_3b" answer="Violin II"></question>
+    <question image="L8_U1_A3_3c" answer="Viola" />
+    <question image="L8_U1_A3_3d" answer="Cello" />
+  </category>
+  <category type="graphic" question="Name the voices or instruments that would perform the indicated part.">
+    <question image="L8_U1_A3_4a" answer="Soprano" />
+    <question image="L8_U1_A3_4b" answer="Alto"></question>
+    <question image="L8_U1_A3_4c" answer="Tenor" />
+    <question image="L8_U1_A3_4d" answer="Bass"></question>
+  </category>
+  <category type="graphic" question="Name the type of score.">
+    <question image="L8_U1_A3_3" answer="String quartet score" />
+    <question image="L8_U1_A3_4" answer="Modern vocal score"></question>
+    <question image="L8_U1_A3_5" answer="String quartet score"></question>
+    <question image="L8_U1_A3_6" answer="Modern vocal score"></question>
+    <question image="L8_U1_A3_7" answer="String quartet score"></question>
+  </category>
+</questions>
