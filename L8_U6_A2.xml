@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<questions>
+  <category type="graphic" question="Identify the harmonic progression.">
+    <question image="L8_U6_A2_1" answer="I-IV-I-V-I" />
+    <question image="L8_U6_A2_5" answer="I-V-I-IV-I"></question>
+    <question image="L8_U6_A2_9" answer="i-IV-i-V-i" />
+    <question image="L8_U6_A2_16" answer="i-V-i-iv-V"></question>
+  </category>
+  <category type="graphic" question="Identify the harmonic progression.">
+    <question image="L8_U6_A2_2" answer="I-IV-I-V-I" />
+    <question image="L8_U6_A2_6" answer="I-V-I-IV-I"></question>
+    <question image="L8_U6_A2_10" answer="i-IV-i-V-i" />
+    <question image="L8_U6_A2_17" answer="i-V-i-iv-V" />
+  </category>
+  <category type="graphic" question="Identify the harmonic progression.">
+    <question image="L8_U6_A2_3" answer="I-IV-I-V-I" />
+    <question image="L8_U6_A2_7" answer="I-V-I-IV-I"></question>
+    <question image="L8_U6_A2_11" answer="i-IV-i-V-i" />
+    <question image="L8_U6_A2_18" answer="i-V-i-iv-V" />
+  </category>
+  <category type="graphic" question="Identify the harmonic progression.">
+    <question image="L8_U6_A2_4" answer="I-IV-I-V-I" />
+    <question image="L8_U6_A2_8" answer="I-V-I-IV-I"></question>
+    <question image="L8_U6_A2_12" answer="i-IV-i-V-i" />
+    <question image="L8_U6_A2_18" answer="i-V-i-iv-V"></question>
+  </category>
+  <category type="graphic" question="Identify the harmonic progression.">
+    <question image="L8_U6_A2_1" answer="I-IV-I-V-I" />
+    <question image="L8_U6_A2_5" answer="I-V-I-IV-I"></question>
+    <question image="L8_U6_A2_13" answer="i-IV-i-V-i" />
+    <question image="L8_U6_A2_16" answer="i-V-i-iv-V"></question>
+  </category>
+  <category type="graphic" question="Identify the harmonic progression.">
+    <question image="L8_U6_A2_2" answer="I-IV-I-V-I" />
+    <question image="L8_U6_A2_6" answer="I-V-I-IV-I"></question>
+    <question image="L8_U6_A2_14" answer="i-IV-i-V-i" />
+    <question image="L8_U6_A2_17" answer="i-V-i-iv-V"></question>
+  </category>
+  <category type="graphic" question="Identify the harmonic progression.">
+    <question image="L8_U6_A2_3" answer="I-IV-I-V-I" />
+    <question image="L8_U6_A2_7" answer="I-V-I-IV-I"></question>
+    <question image="L8_U6_A2_15" answer="i-IV-i-V-i" />
+    <question image="L8_U6_A2_18" answer="i-V-i-iv-V"></question>
+  </category>
+</questions>

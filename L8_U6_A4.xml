@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<questions>
+  <category type="graphic" question="Identify the type of chord.">
+    <question image="L8_U6_A4_1_Q" answer="Cluster chord" />
+    <question image="L8_U6_A4_13_Q" answer="Polychord"></question>
+    <question image="L8_U6_A4_22_Q" answer="Quartal chord" />
+  </category>
+  <category type="graphic" question="Identify the type of chord.">
+    <question image="L8_U6_A4_2_Q" answer="Cluster chord" />
+    <question image="L8_U6_A4_14_Q" answer="Polychord"></question>
+    <question image="L8_U6_A4_23_Q" answer="Quartal chord" />
+  </category>
+  <category type="graphic" question="Identify the type of chord.">
+    <question image="L8_U6_A4_3_Q" answer="Cluster chord" />
+    <question image="L8_U6_A4_15_Q" answer="Polychord"></question>
+    <question image="L8_U6_A4_24_Q" answer="Quartal chord" />
+  </category>
+  <category type="graphic" question="Identify the type of chord.">
+    <question image="L8_U6_A4_4_Q" answer="Cluster chord" />
+    <question image="L8_U6_A4_15_Q" answer="Polychord"></question>
+    <question image="L8_U6_A4_25_Q" answer="Quartal chord" />
+  </category>
+  <category type="graphic" question="Identify the type of chord.">
+    <question image="L8_U6_A4_5_Q" answer="Cluster chord" />
+    <question image="L8_U6_A4_16_Q" answer="Polychord"></question>
+    <question image="L8_U6_A4_26_Q" answer="Quartal chord" />
+  </category>
+  <category type="graphic" question="Identify the type of chord.">
+    <question image="L8_U6_A4_6_Q" answer="Cluster chord" />
+    <question image="L8_U6_A4_17_Q" answer="Polychord"></question>
+    <question image="L8_U6_A4_27_Q" answer="Quartal chord" />
+  </category>
+  <category type="graphic" question="Identify the type of chord.">
+    <question image="L8_U6_A4_7_Q" answer="Cluster chord" />
+    <question image="L8_U6_A4_18_Q" answer="Polychord"></question>
+    <question image="L8_U6_A4_28_Q" answer="Quartal chord" />
+  </category>
+  <category type="graphic" question="Identify the type of chord.">
+    <question image="L8_U6_A4_8_Q" answer="Cluster chord" />
+    <question image="L8_U6_A4_19_Q" answer="Polychord"></question>
+    <question image="L8_U6_A4_29_Q" answer="Quartal chord" />
+  </category>
+  <category type="graphic" question="Identify the type of chord.">
+    <question image="L8_U6_A4_9_Q" answer="Cluster chord" />
+    <question image="L8_U6_A4_20_Q" answer="Polychord"></question>
+    <question image="L8_U6_A4_30_Q" answer="Quartal chord" />
+  </category>
+  <category type="graphic" question="Identify the type of chord.">
+    <question image="L8_U6_A4_10_Q" answer="Cluster chord" />
+    <question image="L8_U6_A4_13_Q" answer="Polychord"></question>
+    <question image="L8_U6_A4_31_Q" answer="Quartal chord" />
+  </category>
+  <category type="graphic" question="Identify the type of chord.">
+    <question image="L8_U6_A4_11_Q" answer="Cluster chord" />
+    <question image="L8_U6_A4_14_Q" answer="Polychord"></question>
+    <question image="L8_U6_A4_32_Q" answer="Quartal chord" />
+  </category>
+  <category type="graphic" question="Identify the type of chord.">
+    <question image="L8_U6_A4_12_Q" answer="Cluster chord" />
+    <question image="L8_U6_A4_15_Q" answer="Polychord"></question>
+    <question image="L8_U6_A4_33_Q" answer="Quartal chord" />
+  </category>
+</questions>

@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<questions>
+  <category type="graphic" question="Identify the type of motion between these two voices.">
+    <question image="L8_U6_A3_1" answer="Parallel motion" />
+    <question image="L8_U6_A3_12" answer="Similar motion"></question>
+    <question image="L8_U6_A3_20" answer="Contrary motion" />
+    <question image="L8_U6_A3_31" answer="Oblique motion"></question>
+    <question image="L8_U6_A3_41" answer="Static motion"></question>
+  </category>
+  <category type="graphic" question="Identify the type of motion between these two voices.">
+    <question image="L8_U6_A3_2" answer="Parallel motion" />
+    <question image="L8_U6_A3_13" answer="Similar motion"></question>
+    <question image="L8_U6_A3_21" answer="Contrary motion" />
+    <question image="L8_U6_A3_32" answer="Oblique motion"></question>
+    <question image="L8_U6_A3_42" answer="Static motion"></question>
+  </category>
+  <category type="graphic" question="Identify the type of motion between these two voices.">
+    <question image="L8_U6_A3_3" answer="Parallel motion" />
+    <question image="L8_U6_A3_14" answer="Similar motion"></question>
+    <question image="L8_U6_A3_22" answer="Contrary motion" />
+    <question image="L8_U6_A3_33" answer="Oblique motion"></question>
+    <question image="L8_U6_A3_43" answer="Static motion"></question>
+  </category>
+  <category type="graphic" question="Identify the type of motion between these two voices.">
+    <question image="L8_U6_A3_4" answer="Parallel motion" />
+    <question image="L8_U6_A3_15" answer="Similar motion"></question>
+    <question image="L8_U6_A3_23" answer="Contrary motion" />
+    <question image="L8_U6_A3_34" answer="Oblique motion"></question>
+    <question image="L8_U6_A3_44" answer="Static motion"></question>
+  </category>
+  <category type="graphic" question="Identify the type of motion between these two voices.">
+    <question image="L8_U6_A3_5" answer="Parallel motion" />
+    <question image="L8_U6_A3_16" answer="Similar motion"></question>
+    <question image="L8_U6_A3_24" answer="Contrary motion" />
+    <question image="L8_U6_A3_35" answer="Oblique motion"></question>
+    <question image="L8_U6_A3_45" answer="Static motion"></question>
+  </category>
+  <category type="graphic" question="Identify the type of motion between these two voices.">
+    <question image="L8_U6_A3_6" answer="Parallel motion" />
+    <question image="L8_U6_A3_17" answer="Similar motion"></question>
+    <question image="L8_U6_A3_25" answer="Contrary motion" />
+    <question image="L8_U6_A3_36" answer="Oblique motion"></question>
+    <question image="L8_U6_A3_41" answer="Static motion"></question>
+  </category>
+  <category type="graphic" question="Identify the type of motion between these two voices.">
+    <question image="L8_U6_A3_7" answer="Parallel motion" />
+    <question image="L8_U6_A3_18" answer="Similar motion"></question>
+    <question image="L8_U6_A3_26" answer="Contrary motion" />
+    <question image="L8_U6_A3_37" answer="Oblique motion"></question>
+    <question image="L8_U6_A3_42" answer="Static motion"></question>
+  </category>
+  <category type="graphic" question="Identify the type of motion between these two voices.">
+    <question image="L8_U6_A3_8" answer="Parallel motion" />
+    <question image="L8_U6_A3_19" answer="Similar motion"></question>
+    <question image="L8_U6_A3_27" answer="Contrary motion" />
+    <question image="L8_U6_A3_38" answer="Oblique motion"></question>
+    <question image="L8_U6_A3_43" answer="Static motion"></question>
+  </category>
+  <category type="graphic" question="Identify the type of motion between these two voices.">
+    <question image="L8_U6_A3_9" answer="Parallel motion" />
+    <question image="L8_U6_A3_12" answer="Similar motion"></question>
+    <question image="L8_U6_A3_28" answer="Contrary motion" />
+    <question image="L8_U6_A3_39" answer="Oblique motion"></question>
+    <question image="L8_U6_A3_44" answer="Static motion"></question>
+  </category>
+  <category type="graphic" question="Identify the type of motion between these two voices.">
+    <question image="L8_U6_A3_10" answer="Parallel motion" />
+    <question image="L8_U6_A3_13" answer="Similar motion"></question>
+    <question image="L8_U6_A3_29" answer="Contrary motion" />
+    <question image="L8_U6_A3_40" answer="Oblique motion"></question>
+    <question image="L8_U6_A3_45" answer="Static motion"></question>
+  </category>
+  <category type="graphic" question="Identify the type of motion between these two voices.">
+    <question image="L8_U6_A3_11" answer="Parallel motion" />
+    <question image="L8_U6_A3_14" answer="Similar motion"></question>
+    <question image="L8_U6_A3_30" answer="Contrary motion" />
+    <question image="L8_U6_A3_31" answer="Oblique motion"></question>
+    <question image="L8_U6_A3_41" answer="Static motion"></question>
+  </category>
+</questions>
