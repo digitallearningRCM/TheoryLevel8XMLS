@@ -3,7 +3,7 @@
   <category type="text" question="Select the description of the term.">
     <question title="cédez" answer="Yield;hold the tempo back" />
     <question title="léger" answer="Light, lightly" />
-    <question title="lentement" answer="Fast" />
+    <question title="lentement" answer="Slow" />
   </category>
   <category type="text" question="Select the description of the term.">
     <question title="modéré" answer="At a moderate tempo" />
