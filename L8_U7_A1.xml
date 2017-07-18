@@ -16,17 +16,17 @@
     <question text="Four voices" answer="true" />
   </category>
       <category type="paragraph" question="" text="Which composition exhibits a monophonic texture?">
-    <question text="Ordi Virtutum" answer="true" />
+    <question text="Ordo Virtutum" answer="true" />
     <question text="Sumer Is Icumen In" answer="false" />
     <question text="El grillo" answer="false" />
   </category>
       <category type="paragraph" question="" text="Which composition exhibits a polyphonic texture?">
-     <question text="Ordi Virtutum" answer="false" />
+     <question text="Ordo Virtutum" answer="false" />
     <question text="Sumer Is Icumen In" answer="true" />
     <question text="El grillo" answer="false" />
   </category>
       <category type="paragraph" question="" text="Which composition exhibits ostinato?">
-    <question text="Ordi Virtutum" answer="false" />
+    <question text="Ordo Virtutum" answer="false" />
     <question text="Sumer Is Icumen In" answer="false" />
     <question text="El grillo" answer="true" />
   </category>
