@@ -1,0 +1,8 @@
+
+<?xml version="1.0" encoding="utf-8"?>
+<activities>
+  <activity icon="planet-rhythm" title="HYBRID METERS" description="Identify the time signature" xml="L8_U2_A0" />
+  <activity icon="planet-rhythm" title="SIMPLE, COMPOUND, AND HYBRID METERS" description="Identify the time signature" xml="L8_U2_A1"></activity>
+  <activity icon="planet-rhythm" title="RESTS IN HYBRID METERS" description="Select the correct answer to complete the measure with rests" xml="L8_U2_A2"></activity>
+  <activity icon="planet-rhythm" title="RESTS IN SIMPLE, COMPOUND, AND HYBRID METERS" description="Select the correct answer to complete the measure with rests" xml="L8_U2_A3"></activity>
+</activities>
