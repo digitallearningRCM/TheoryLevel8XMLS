@@ -1,1 +1,36 @@
-
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<questions>
+    <category type="graphicGraphic" question="Select the correct answer to complete the measure with rests." image="IOS_L8_U2_A2_C1_Q1_Q">
+       <question image="IOS_L8_U2_A2_C1_Q1_A1" answer="true"></question>
+        <question image="IOS_L8_U2_A2_C1_Q1_A2" answer="false"></question>
+  </category>
+    <category type="graphicGraphic" question="Select the correct answer to complete the measure with rests." image="IOS_L8_U2_A2_C1_Q2_Q">
+      <question image="IOS_L8_U2_A2_C1_Q2_A1" answer="true"></question>
+      <question image="IOS_L8_U2_A2_C1_Q2_A2" answer="false"></question>
+    </category>
+    <category type="graphicGraphic" question="Select the correct answer to complete the measure with rests." image="IOS_L8_U2_A2_C1_Q3_Q">
+      <question image="IOS_L8_U2_A2_C1_Q3_A1" answer="true"></question>
+      <question image="IOS_L8_U2_A2_C1_Q3_A2" answer="false"></question>
+    </category>
+        <category type="graphicGraphic" question="Select the correct answer to complete the measure with rests." image="IOS_L6_U2_A3_11_Q">
+            <question image="IOS_L6_U2_A3_11_A1" answer="true"></question>
+            <question image="IOS_L6_U2_A3_11_A2" answer="false"></question>
+    </category>
+        <category type="graphicGraphic" question="Select the correct answer to complete the measure with rests." image="IOS_L6_U2_A3_15_Q">
+            <question image="IOS_L6_U2_A3_15_A1" answer="true"></question>
+            <question image="IOS_L6_U2_A3_15_A2" answer="false"></question>
+    </category>
+    <category type="graphicGraphic" question="Select the correct answer to complete the measure with rests." image="IOS_L7_U2_A2_4_Q">
+      <question image="IOS_L7_U2_A2_4_A1" answer="true"></question>
+      <question image="IOS_L7_U2_A2_4_A2" answer="false"></question>
+    </category>
+    <category type="graphicGraphic" question="Select the correct answer to complete the measure with rests." image="IOS_L7_U2_A2_10_Q">
+      <question image="IOS_L7_U2_A2_10_A1" answer="true"></question>
+      <question image="IOS_L7_U2_A2_10_A2" answer="false"></question>
+    </category>
+    <category type="graphicGraphic" question="Select the correct answer to complete the measure with rests." image="IOS_L7_U2_A2_13_Q">
+      <question image="IOS_L7_U2_A2_13_A1" answer="true"></question>
+      <question image="IOS_L7_U2_A2_13_A2" answer="false"></question>
+  
+     
+</questions>
