@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <questions>
-    <category type="graphicGraphic" question="Select the correct answer to complete the measure with rests." image="IOS_L8_U2_A2_C2_Q1_Q">
-       <question image="IOS_L8_U2_A2_C2_Q1_A1" answer="true"></question>
-        <question image="IOS_L8_U2_A2_C2_Q1_A2" answer="false"></question>
+    <category type="graphicGraphic" question="Select the correct answer to complete the measure with rests." image="IOS_L8_U2_A2_C1_Q1_Q">
+       <question image="IOS_L8_U2_A2_C1_Q1_A1" answer="true"></question>
+        <question image="IOS_L8_U2_A2_C1_Q1_A2" answer="false"></question>
   </category>
     <category type="graphicGraphic" question="Select the correct answer to complete the measure with rests." image="IOS_L8_U2_A2_C2_Q2_Q">
       <question image="IOS_L8_U2_A2_C2_Q2_A1" answer="true"></question>
