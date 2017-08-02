@@ -32,7 +32,7 @@
     <question title="largamente" answer="Broadly" />
   </category>
   <category type="text" question="Select the description of the term.">
-    <question title="l'istesso tempo" answer="A passage for the ensemble" />
+    <question title="l'istesso tempo" answer="The same tempo" />
     <question title="pizzicato" answer="On a bowed string instrument, pluck the string instead of bowing" />
     <question title="ritenuto, riten." answer="Suddenly slower, held back" />
     <question title="stringendo" answer="Pressing, becoming faster" />
