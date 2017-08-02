@@ -33,30 +33,30 @@
   <category type="paragraph" question="" text="In 'El grillo', long notes are used to suggest the cricket’s ability to sing for a long time. What is this effect called?">
     <question text="Monophonic texture" answer="false" />
     <question text="Polyphonic texture" answer="false" />
-    <question text="Ostinatoe" answer="false" />
+    <question text="Ostinato" answer="false" />
     <question text="Word painting" answer="true" />
   </category>
     <category type="paragraph" question="" text="Which term refers to a single line of unaccompanied melody?">
     <question text="Monophonic texture" answer="true" />
     <question text="Polyphonic texture" answer="false" />
-    <question text="Ostinatoe" answer="false" />
+    <question text="Ostinato" answer="false" />
     <question text="Word painting" answer="false" />
   </category>
        <category type="paragraph" question="" text="Which term refers to the combination of two or more independent melodic lines?">
     <question text="Monophonic texture" answer="false" />
     <question text="Polyphonic texture" answer="true" />
-    <question text="Ostinatoe" answer="false" />
+    <question text="Ostinato" answer="false" />
     <question text="Word painting" answer="false" />
   </category>
       <category type="paragraph" question="" text="Which term refers to a recurring rhythmic pattern?">
     <question text="Monophonic texture" answer="false" />
     <question text="Polyphonic texture" answer="false" />
-    <question text="Ostinatoe" answer="true" />
+    <question text="Ostinato" answer="true" />
     <question text="Word painting" answer="false" />
   </category>
-      <category type="paragraph" question="" text="What is it called when the music mirrors the meaning of the words through the melody, harmony and rhythm?">
+      <category type="paragraph" question="" text="What is it called when the music mirrors the meaning of the words through the melody, harmony, and rhythm?">
     <question text="Monophonic texture" answer="false" />
     <question text="Polyphonic texture" answer="false" />
-    <question text="Ostinatoe" answer="false" />
+    <question text="Ostinato" answer="false" />
     <question text="Word painting" answer="true" />
   </category>
