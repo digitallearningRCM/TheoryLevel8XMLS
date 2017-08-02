@@ -2,24 +2,24 @@
 <questions>
   <category type="paragraph" question="" text="Who composed 'Ordo Virtutum'?">
     <question text="Hildegard" answer="true" />
-    <question text="The composer is not known." answer="false" />
+    <question text="The composer is unknown" answer="false" />
     <question text="Josquin des Prez" answer="false" />
   </category>
   <category type="paragraph" question="" text="Who composed 'Sumer Is Icumen In'?">
     <question text="Hildegard" answer="false" />
-    <question text="The composer is not known." answer="true" />
+    <question text="The composer is unknown" answer="true" />
     <question text="Josquin des Prez" answer="false" />
   </category>
   <category type="paragraph" question="" text="Who composed 'El grillo'?">
     <question text="Hildegard" answer="false" />
-    <question text="The composer is not known." answer="false" />
+    <question text="The composer is unknown" answer="false" />
     <question text="Josquin des Prez" answer="true" />
   </category>
- <category type="paragraph" question="" text="Which era does the composition 'Ordo Virtutum' belong to?">
+ <category type="paragraph" question="" text="What era does the composition 'Ordo Virtutum' belong to?">
     <question text="Medieval era" answer="true" />
     <question text="Renaissance era" answer="false" />
   </category>
-   <category type="paragraph" question="" text="Which era does the composition 'Sumer Is Icumen In' belong to?">
+   <category type="paragraph" question="" text="What era does the composition 'Sumer Is Icumen In' belong to?">
     <question text="Medieval era" answer="true" />
     <question text="Renaissance era" answer="false" />
   </category>
@@ -28,33 +28,33 @@
     <question text="Renaissance era" answer="true" />
   </category>
   <category type="paragraph" question="" text="Which is the genre of 'Ordo Virtutum'?">
-    <question text="Plaichant" answer="true" />
+    <question text="Plainchant" answer="true" />
     <question text="Rota" answer="false" />
     <question text="Frottola" answer="false" />
   </category>
   <category type="paragraph" question="" text="Which is the genre of 'Sumer Is Icumen In'?">
-    <question text="Plaichant" answer="false" />
+    <question text="Plainchant" answer="false" />
     <question text="Rota" answer="true" />
     <question text="Frottola" answer="false" />
   </category>
     <category type="paragraph" question="" text="Which is the genre of 'El grillo'?">
-    <question text="Plaichant" answer="false" />
+    <question text="Plainchant" answer="false" />
     <question text="Rota" answer="false" />
     <question text="Frottola" answer="true" />
   </category>
     </category>
-   <category type="paragraph" question="" text="Which genre consists of monophonic modal melody with unmeasured rhythm in Latin text?">
-    <question text="Plaichant" answer="true" />
+   <category type="paragraph" question="" text="Which genre features monophonic modal melodies with unmeasured rhythms using Latin text?">
+    <question text="Plainchant" answer="true" />
     <question text="Rota" answer="false" />
     <question text="Frottola" answer="false" />
   </category>
      <category type="paragraph" question="" text="Which genre is characterized by strict imitation created through successive entries of a melody in several voices?">
-    <question text="Plaichant" answer="false" />
+    <question text="Plainchant" answer="false" />
     <question text="Rota" answer="true" />
     <question text="Frottola" answer="false" />
   </category>
      <category type="paragraph" question="" text="Which genre is based on playful poems and lighthearted word painting in a polyphonic texture?">
-    <question text="Plaichant" answer="false" />
+    <question text="Plainchant" answer="false" />
     <question text="Rota" answer="false" />
     <question text="Frottola" answer="true" />
   </category>
