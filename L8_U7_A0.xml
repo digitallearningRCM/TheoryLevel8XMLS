@@ -15,29 +15,29 @@
     <question text="The composer is unknown" answer="false" />
     <question text="Josquin des Prez" answer="true" />
   </category>
- <category type="paragraph" question="" text="What era does the composition 'Ordo Virtutum' belong to?">
+ <category type="paragraph" question="" text="To which era does the composition 'Ordo Virtutum' belong?">
     <question text="Medieval era" answer="true" />
     <question text="Renaissance era" answer="false" />
   </category>
-   <category type="paragraph" question="" text="What era does the composition 'Sumer Is Icumen In' belong to?">
+   <category type="paragraph" question="" text="To which era does the composition 'Sumer Is Icumen In' belong?">
     <question text="Medieval era" answer="true" />
     <question text="Renaissance era" answer="false" />
   </category>
-   <category type="paragraph" question="" text="Which era does the composition 'El grillo' belong to?">
+   <category type="paragraph" question="" text="To which era does the composition 'El grillo' belong?">
     <question text="Medieval era" answer="false" />
     <question text="Renaissance era" answer="true" />
   </category>
-  <category type="paragraph" question="" text="Which is the genre of 'Ordo Virtutum'?">
+  <category type="paragraph" question="" text="To which genre does 'Ordo Virtutum'? belong?">
     <question text="Plainchant" answer="true" />
     <question text="Rota" answer="false" />
     <question text="Frottola" answer="false" />
   </category>
-  <category type="paragraph" question="" text="Which is the genre of 'Sumer Is Icumen In'?">
+  <category type="paragraph" question="" text="To which genre does 'Sumer Is Icumen In'? belong?">
     <question text="Plainchant" answer="false" />
     <question text="Rota" answer="true" />
     <question text="Frottola" answer="false" />
   </category>
-    <category type="paragraph" question="" text="Which is the genre of 'El grillo'?">
+    <category type="paragraph" question="" text="To which genre does 'El grillo' belong?">
     <question text="Plainchant" answer="false" />
     <question text="Rota" answer="false" />
     <question text="Frottola" answer="true" />
