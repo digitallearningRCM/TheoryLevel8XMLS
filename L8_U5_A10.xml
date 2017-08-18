@@ -3,6 +3,7 @@
   <category type="graphicGraphic" question="Select the correct answer to complete the cadence." image="IOS_L8_U5_A10_1_Q">
     <question image="IOS_L8_U5_A10_1_A1" answer="true"></question>
     <question image="IOS_L8_U5_A10_1_A2" answer="false"></question>
+    </category>
     <category type="graphicGraphic" question="Select the correct answer to complete the cadence." image="IOS_L8_U5_A10_2_Q">
       <question image="IOS_L8_U5_A10_2_A1" answer="true"></question>
       <question image="IOS_L8_U5_A10_2_A2" answer="false"></question>
@@ -47,5 +48,5 @@
       <question image="IOS_L8_U5_A10_12_A1" answer="true"></question>
       <question image="IOS_L8_U5_A10_12_A2" answer="false"></question>
     </category>
-  </category>
+  
 </questions>
