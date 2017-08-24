@@ -27,8 +27,13 @@
   <category type="graphic" question="Name the type of score.">
     <question image="L8_U1_A3_3" answer="String quartet score" />
     <question image="L8_U1_A3_4" answer="Modern vocal score"></question>
+  </category>
+   <category type="graphic" question="Name the type of score.">
     <question image="L8_U1_A3_5" answer="String quartet score"></question>
     <question image="L8_U1_A3_6" answer="Modern vocal score"></question>
+  </category>
+   <category type="graphic" question="Name the type of score.">
+    <question image="L8_U1_A3_4" answer="Modern vocal score"></question>
     <question image="L8_U1_A3_7" answer="String quartet score"></question>
   </category>
 </questions>
